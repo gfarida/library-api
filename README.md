@@ -14,7 +14,7 @@ A simple RESTful API built with Go and Gin for managing a book library. This API
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/library-api.git
+   git clone https://github.com/gfarida/library-api.git
    cd library-api
 
 2. Install dependencies:
