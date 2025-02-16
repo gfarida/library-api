@@ -27,7 +27,7 @@ A simple RESTful API built with Go and Gin for managing a book library. This API
     ```sh
     go run main.go
     ```
-By default, the server runs on localhost:8080.
+By default, the server runs on `localhost:8080`.
 
 ## API Endpoints
 
